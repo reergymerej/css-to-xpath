@@ -9,5 +9,34 @@
     "grunt-mocha-test": "^0.12.7",
     "mocha": "^2.2.5",
     "willy": "^1.0.1"
-  }
+  },
+  "name": "css-to-xpath",
+  "description": "[![Build Status](https://travis-ci.org/reergymerej/css-to-xpath.svg)](https://travis-ci.org/reergymerej/css-to-xpath)",
+  "version": "1.0.0",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-mocha-test": "^0.12.7",
+    "willy": "^1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reergymerej/css-to-xpath.git"
+  },
+  "keywords": [
+    "css",
+    "to",
+    "xpath",
+    "xpath",
+    "css"
+  ],
+  "author": "Jeremy Greer <jeremy.greer.atl@gmail.com> (http://jeremygreer.herokuapp.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reergymerej/css-to-xpath/issues"
+  },
+  "homepage": "https://github.com/reergymerej/css-to-xpath#readme"
 }

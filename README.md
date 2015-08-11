@@ -1,4 +1,6 @@
-Convert css selectors to xpath selectors.
+[![Build Status](https://travis-ci.org/reergymerej/css-to-xpath.svg)](https://travis-ci.org/reergymerej/css-to-xpath)
+
+Convert css selectors to xpath.
 
 ```js
 app('.foo'); // '[contains(concat(" ", normalize-space(@class), " "), " foo ")]'
